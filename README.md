@@ -7,8 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hritwizoo7" target="blank"><img src="https://img.shields.io/twitter/follow/hritwizoo7?logo=twitter&style=for-the-badge" alt="hritwizoo7" /></a> </p>
 
-- 📫 How to reach me **hritwizsri101@gmail.com**
--                    **hritwizsrioo7@gmail.com**
+- 📫 How to reach me **hritwizsri101@gmail.com** **'** **hritwizsrioo7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
