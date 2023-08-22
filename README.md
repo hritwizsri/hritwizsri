@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hritwiz Yash</h1>
-<h3 align="center">A Aspiring Data Scientist with enthusiastic data analytics and machine learning skillset</h3>
+<h3 align="center">A Aspiring Data Scientist with enthusiastic web development and machine learning skillset</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hritwizsri&label=Profile%20views&color=0e75b6&style=flat" alt="hritwizsri" /> </p>
 
